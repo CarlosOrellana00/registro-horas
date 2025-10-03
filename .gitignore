@@ -1,0 +1,30 @@
+# Dependencias y builds
+/node_modules
+/public/hot
+/public/build
+
+# Storage / cache
+/storage/*.key
+/storage/logs/
+bootstrap/cache/*.php
+
+# Entornos / IDE
+/.idea
+/.vscode
+
+# Homestead / Docker (si no usas, ignóralos)
+Homestead.json
+Homestead.yaml
+
+# Archivos de entorno y tests cache
+.env
+.env.*
+!.env.example
+.phpunit.result.cache
+.phpunit.cache
+
+# Otros logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
