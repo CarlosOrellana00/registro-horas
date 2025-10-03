@@ -98,6 +98,6 @@ CSS/JS don’t update → stop Vite and run npm run dev again; clear browser cac
 
 DB connection errors → check your .env DB_* variables and that MySQL is running.
 
-
+Project done for practical purposes in the subject, without commercial purposes
 
 
